@@ -68,7 +68,7 @@ Each row represents a sample and each column represents a feature.
 
 ## 👩‍💻 Author
 
-**Harinii S*  
+**Harinii S** 
 B.Tech Bioinformatics (AI/ML Minor)  
 SASTRA Deemed University  
 
